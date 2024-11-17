@@ -1,4 +1,4 @@
-<h1>Hi, I'm Princess, an IT Professional</h1>
+<h1>Hello, I'm Princess, an IT Professional</h1>
 
 <h2>💻 Information Technology Projects:</h2>
 

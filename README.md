@@ -6,5 +6,4 @@
   - [Creating a Virtual Machine on Azure](https://github.com/Princess-A1/virtual-machine)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Princess-A1/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Princess-A1/azure-network-protocols)
-  - [Domain Name System (DNS) Configurations](https://github.com/Princess-A1/configure-dns)
   - [Network File Shares and Permissions](https://github.com/Princess-A1/nfs-and-permissions)
